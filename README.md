@@ -34,6 +34,8 @@ Below are some areas I need to research, learn and tryout.
 ### Tools
 - Storybook https://storybook.js.org 
 
+### [Inspirations](./Inspirations.md)
+
 ### [Courses](./courses.md)
 
 
