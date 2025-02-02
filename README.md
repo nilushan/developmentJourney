@@ -18,21 +18,23 @@ Below are some areas I need to research, learn and tryout.
 ## Frontend learning
 
 ### Static website development
-- Jerkyll https://jekyllrb.com/
-- ElevenTy https://www.11ty.dev/
+- [Jerkyll](https://jekyllrb.com/)
+- [ElevenTy](https://www.11ty.dev/)
+- [Next.js](https://nextjs.org/docs/pages/building-your-application/rendering/static-site-generation)
+
 
 ### Website templates
-- Bootstrap https://themes.getbootstrap.com/
+- [Bootstrap](https://themes.getbootstrap.com/)
 
 
 ### CSS Frameworks
-- Bootstrap https://getbootstrap.com/
-- Tailwind https://tailwindcss.com/
-- Pico css https://picocss.com/
+- [Bootstrap](https://getbootstrap.com/)
+- [Tailwind ](https://tailwindcss.com/)
+- [Pico css](https://picocss.com/)
 
 
 ### Tools
-- Storybook https://storybook.js.org 
+- [Storybook ](https://storybook.js.org )
 
 ### [Inspirations](./Inspirations.md)
 
