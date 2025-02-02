@@ -6,11 +6,13 @@ This is a starting point to document and track my learning journey. Hope to even
 
 Below are some areas I need to research, learn and tryout.
 
+
+# Learning
 ## Knowledge base tools
-- Obsidian
-- Apple Notes
-- Github repo readme
-- Github pages
+- [x] Obsidian
+- [ ] Apple Notes
+- [ ] Github repo readme
+- [ ] Github pages
 
 
 ## Frontend learning
@@ -32,8 +34,25 @@ Below are some areas I need to research, learn and tryout.
 ### Tools
 - Storybook https://storybook.js.org 
 
+## Hosting
+### Web site / Web app frontend hosting
+- [Github pages](https://pages.github.com)
+  - Is only Jekyll supported?
 
+- [AWS S3 ](https://docs.aws.amazon.com/AmazonS3/latest/userguide/WebsiteHosting.html)
 
+- [Firebase hosting](https://firebase.google.com/docs/hosting)
+- [GCP Cloud Run](https://cloud.google.com/run?hl=en)
+  - Overkill as there is  processing ?
+
+#### Supporting tasks
+- Setting up custom dns
+- Setting up SSL / Certificates  ( Letsencrypt )
+- Setting up CICD pipelines from Github to hosting
+
+ 
+
+ 
 # Task List
 
 ## Low cost maintainance Websites
